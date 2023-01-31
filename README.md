@@ -1,2 +1,2 @@
-# Hover-Effect
-just some simple and cool hover effects 
+cool hover effects
+
